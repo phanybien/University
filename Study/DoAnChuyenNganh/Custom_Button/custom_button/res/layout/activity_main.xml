@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="code.besaba.custom_button.MainActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/button1"
+            style="@style/btnStyleOrange"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:text="Orange" />
+
+        <Button
+            android:id="@+id/Button01"
+            style="@style/btnStyleSandrift"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:text="Sandrift" />
+
+        <Button
+            android:id="@+id/Button02"
+            style="@style/btnStyleGenoa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:text="Genoa" />
+
+        <Button
+            android:id="@+id/Button03"
+            style="@style/btnStyleArsenic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:text="Arsenic" />
+
+        <Button
+            android:id="@+id/Button04"
+            style="@style/btnStyleHaiti"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:text="Haiti" />
+
+        <Button
+            android:id="@+id/Button05"
+            style="@style/btnStyleBlackpearl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:text="Black pearl" />
+
+        <Button
+            android:id="@+id/Button06"
+            style="@style/btnStyleBreakerBay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:text="Breaker Bay" />
+
+        <Button
+            android:id="@+id/Button08"
+            style="@style/btnStyleShakespeare"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:text="Shakespeare" />
+
+        <Button
+            android:id="@+id/Button07"
+            style="@style/btnStyleSeagull"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:text="Seagull" />
+
+        <Button
+            android:id="@+id/Button09"
+            style="@style/btnStyleYellow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:text="Yellow" />
+    </LinearLayout>
+
+</ScrollView>

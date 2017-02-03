@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="40dp">
+
+    <Button
+        android:layout_width="90dp"
+        android:layout_height="60dp"
+        android:id="@+id/btn_pro_PowerOn"
+        style="@style/btnStyleMyButton"
+        android:padding="20dp"
+        android:layout_alignStart="@+id/pro_tablelayout"
+        android:layout_alignTop="@+id/btn_pro_Input"
+        android:layout_marginTop="0dp"
+        android:layout_marginRight="30dp"
+        android:text="ON"
+        android:textColor="#ff0000" />
+
+    <Button
+        style="@style/btnStyleMyButton"
+        android:layout_width="90dp"
+        android:layout_height="60dp"
+        android:id="@+id/btn_pro_PowerOff"
+        android:padding="20dp"
+        android:layout_marginRight="30dp"
+        android:layout_alignBottom="@+id/btn_pro_Menu"
+        android:layout_alignStart="@+id/btn_pro_PowerOn"
+        android:text="OFF"
+        android:textColor="#ff0000" />
+
+    <Button
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:text="+"
+        android:id="@+id/btn_pro_VolumeUp"
+        style="@style/btnStyleMyButton"
+        android:textSize="30dp"
+        android:layout_alignTop="@+id/pro_tablelayout"
+        android:layout_alignStart="@+id/btn_pro_KeyStone"
+        android:layout_marginLeft="20dp" />
+
+    <Button
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:text="-"
+        android:id="@+id/btn_pro_VolumeDown"
+        style="@style/btnStyleMyButton"
+        android:textSize="30dp"
+        android:layout_below="@+id/txt_Volume"
+        android:layout_alignStart="@+id/btn_pro_VolumeUp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="VOLUME"
+        android:id="@+id/txt_Volume"
+        android:textSize="15dp"
+        android:layout_marginRight="4dp"
+        android:layout_below="@+id/btn_pro_VolumeUp"
+        android:layout_alignStart="@+id/btn_pro_VolumeDown"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="10dp" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:id="@+id/btn_pro_KeyStone"
+        android:text="KEY STONE"
+        style="@style/btnStyleMyButton"
+        android:layout_alignStart="@+id/btn_pro_Input"
+        android:layout_below="@+id/btn_pro_Input"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp" />
+
+    <Button
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/btn_pro_Menu"
+        style="@style/btnStyleMyButton"
+        android:drawableLeft="@drawable/btn_menu"
+        android:padding="15dp"
+        android:layout_marginRight="20dp"
+        android:layout_alignTop="@+id/btn_pro_KeyStone"
+        android:layout_centerHorizontal="true" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/pro_tablelayout"
+        android:layout_marginLeft="10dp"
+        android:layout_toStartOf="@+id/btn_pro_VolumeDown"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="200dp">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:id="@+id/btn_pro_UpArrow"
+                style="@style/btnStyleMyButton"
+                android:layout_above="@+id/btn_pro_Enter"
+                android:layout_alignStart="@+id/btn_pro_Enter"
+                android:drawableLeft="@drawable/btn_uparrow"
+                android:layout_column="1"
+                android:layout_marginLeft="10dp"
+                android:padding = "20dp"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:id="@+id/btn_pro_LeftArrow"
+                style="@style/btnStyleMyButton"
+                android:layout_above="@+id/btn_pro_RightArrow"
+                android:layout_toStartOf="@+id/btn_pro_Enter"
+                android:drawableLeft="@drawable/btn_leftarrow"
+                android:layout_column="0"
+                android:layout_marginTop="10dp" />
+
+            <Button
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:text="Enter"
+                android:id="@+id/btn_pro_Enter"
+                style="@style/btnStyleMyButton"
+                android:layout_below="@+id/btn_pro_LeftArrow"
+                android:layout_toStartOf="@+id/btn_pro_PowerOn"
+                android:layout_column="1"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_span="4" />
+
+            <Button
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:id="@+id/btn_pro_RightArrow"
+                style="@style/btnStyleMyButton"
+                android:drawableLeft="@drawable/btn_rightarrow"
+                android:layout_above="@+id/btn_pro_DownArrow"
+                android:layout_alignEnd="@+id/btn_pro_PowerOn"
+                android:layout_column="5"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:id="@+id/btn_pro_DownArrow"
+                style="@style/btnStyleMyButton"
+                android:layout_above="@+id/btn_pro_Input"
+                android:layout_toEndOf="@+id/btn_pro_LeftArrow"
+                android:drawableLeft="@drawable/btn_downarrow"
+                android:layout_column="1"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:padding = "20dp"/>
+        </TableRow>
+
+    </TableLayout>
+
+    <Button
+        style="@style/btnStyleMyButton"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:text="INPUT"
+        android:id="@+id/btn_pro_Input"
+        android:layout_marginTop="73dp"
+        android:layout_below="@+id/btn_pro_VolumeDown"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="20dp" />
+
+    <Button
+        style="@style/btnStyleMyButton"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/btn_pro_Reset"
+        android:drawableLeft="@drawable/btn_reset"
+        android:padding="15dp"
+        android:layout_alignTop="@+id/btn_pro_Input"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp" />
+
+</RelativeLayout>

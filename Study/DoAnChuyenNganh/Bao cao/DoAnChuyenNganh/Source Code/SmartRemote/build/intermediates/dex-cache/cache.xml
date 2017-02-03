@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="H:\SQLiteExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="H:\SQLiteExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_6c2170d0f51c4c6e281cb75d63f201194515bb58\classes.dex" />
+    </item>
+    <item
+        jar="H:\SQLiteExample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5cf9323e071ae8a044878bab07a43b6bc4099164">
+        <dex dex="H:\SQLiteExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_175cd21fbf536d3f228e9b5f95df30a3bd20661c\classes.dex" />
+    </item>
+    <item
+        jar="H:\SQLiteExample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7c1ecb68d7c151fb404b092da6f540a8086fc4ac">
+        <dex dex="H:\SQLiteExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f9012cd92c7e3309deae7d07e32aad4f066823bd\classes.dex" />
+    </item>
+    <item
+        jar="H:\SQLiteExample\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="H:\SQLiteExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_b06b2c36b869ccbff258184dcdb6e0fe15f25d55\classes.dex" />
+    </item>
+    <item
+        jar="H:\SQLiteExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="H:\SQLiteExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_5aa5ca244048a3d3950f7b4845614db7dd794bba\classes.dex" />
+    </item>
+    <item
+        jar="H:\SQLiteExample\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="H:\SQLiteExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_a75812293ee2a28afd72dea7475dbf3fb8774d1d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Kai\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.sqliteasset\sqliteassethelper\2.0.1\d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f\sqliteassethelper-2.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="H:\SQLiteExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\sqliteassethelper-2.0.1_cdc529f54c93d67610f8f230e93fb117721163bc\classes.dex" />
+    </item>
+    <item
+        jar="F:\Program\AndroidSdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="H:\SQLiteExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_055414fa7b946e0ece599ecc456a4b5aaa59c658\classes.dex" />
+    </item>
+    <item
+        jar="H:\SQLiteExample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="H:\SQLiteExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_c795dce9c897ada2b13891597742889e544aa8da\classes.dex" />
+    </item>
+
+</items>

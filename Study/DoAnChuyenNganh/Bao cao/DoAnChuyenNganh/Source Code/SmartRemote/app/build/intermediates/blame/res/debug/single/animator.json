@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\animator\\activity_open_translate.xml",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\animator\\activity_open_translate.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\animator\\activity_open_scale.xml",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\animator\\activity_open_scale.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\animator\\activity_close_translate.xml",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\animator\\activity_close_translate.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\animator\\activity_close_scale.xml",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\animator\\activity_close_scale.xml"
+    }
+]

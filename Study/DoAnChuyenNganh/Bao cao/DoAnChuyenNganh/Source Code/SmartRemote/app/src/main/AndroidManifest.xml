@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.kai.sqliteexample">
+
+    <uses-permission android:name="android.permission.TRANSMIT_IR" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_remote_red"
+        android:supportsRtl="true"
+        android:theme="@style/MyAppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="QUẢN GIA ĐIỆN TỬ">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AddDeviceActivity"
+            android:label="THIẾT BỊ"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kai.sqliteexample.AddDeviceActivity" />
+        </activity>
+        <activity
+            android:name=".SelectBrandActivity"
+            android:label="HÃNG"
+            android:parentActivityName=".AddDeviceActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kai.sqliteexample.AddDeviceActivity" />
+        </activity>
+        <activity
+            android:name=".SelectModelActivity"
+            android:label="MẪU"
+            android:parentActivityName=".SelectBrandActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kai.sqliteexample.AddDeviceActivity" />
+        </activity>
+        <activity
+            android:name=".ControllActivity"
+            android:label="ĐIỀU KHIỂN"
+            android:parentActivityName=".SelectModelActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kai.sqliteexample.AddDeviceActivity" />
+        </activity>
+        <activity android:name=".ItemRowCategory" />
+        <activity
+            android:name=".SettingsActivity"
+            android:label="CÀI ĐẶT"
+            android:parentActivityName=".ControllActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.kai.sqliteexample.AddDeviceActivity" />
+        </activity>
+    </application>
+
+</manifest>

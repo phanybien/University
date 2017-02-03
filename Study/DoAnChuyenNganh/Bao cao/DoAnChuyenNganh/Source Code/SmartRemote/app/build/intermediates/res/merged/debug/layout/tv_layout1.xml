@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_tablelayout1"
+        android:layout_marginLeft="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:text="1"
+                android:id="@+id/btn_tv_1"
+                android:layout_column="0"
+                style="@style/btnStyleMyButton"/>
+
+            <Button
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:text="2"
+                android:id="@+id/btn_tv_2"
+                android:layout_column="1"
+                style="@style/btnStyleMyButton"
+                android:layout_marginLeft="10dp" />
+
+            <Button
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:text="3"
+                android:id="@+id/btn_tv_3"
+                android:layout_column="3"
+                style="@style/btnStyleMyButton"
+                android:layout_marginLeft="10dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:text="4"
+                android:id="@+id/btn_tv_4"
+                android:layout_column="0"
+                style="@style/btnStyleMyButton"
+                android:layout_marginTop="10dp" />
+
+            <Button
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:text="5"
+                android:id="@+id/btn_tv_5"
+                android:layout_column="1"
+                style="@style/btnStyleMyButton"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp" />
+
+            <Button
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:text="6"
+                android:id="@+id/btn_tv_6"
+                android:layout_column="3"
+                style="@style/btnStyleMyButton"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:text="7"
+                android:id="@+id/btn_tv_7"
+                android:layout_column="0"
+                style="@style/btnStyleMyButton"
+                android:layout_marginTop="10dp" />
+
+            <Button
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:text="8"
+                android:id="@+id/btn_tv_8"
+                android:layout_column="1"
+                style="@style/btnStyleMyButton"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp" />
+
+            <Button
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:text="9"
+                android:id="@+id/btn_tv_9"
+                android:layout_column="3"
+                style="@style/btnStyleMyButton"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:text="TV"
+                android:id="@+id/btn_tv_TV"
+                android:layout_column="0"
+                style="@style/btnStyleMyButton"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="20dp" />
+
+            <Button
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:text="0"
+                android:id="@+id/btn_tv_0"
+                android:layout_column="1"
+                style="@style/btnStyleMyButton"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="20dp" />
+
+            <Button
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:text="OK"
+                android:id="@+id/btn_tv_OK"
+                android:layout_column="3"
+                style="@style/btnStyleMyButton"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="20dp" />
+        </TableRow>
+    </TableLayout>
+
+</RelativeLayout>

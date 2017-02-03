@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_btn_shakespeare.xml",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\drawable\\custom_btn_shakespeare.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_power48.png",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\drawable\\btn_power48.png"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_tv.png",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\drawable\\btn_tv.png"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_btn_mybutton.xml",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\drawable\\custom_btn_mybutton.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_leftarrow.png",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\drawable\\btn_leftarrow.png"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\remote.png",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\drawable\\remote.png"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_downarrow.png",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\drawable\\btn_downarrow.png"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_reset.png",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\drawable\\btn_reset.png"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_btn_seagull.xml",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\drawable\\custom_btn_seagull.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_ac.png",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\drawable\\btn_ac.png"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_rightarrow.png",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\drawable\\btn_rightarrow.png"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_dslr.png",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\drawable\\btn_dslr.png"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_btn_orange.xml",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\drawable\\custom_btn_orange.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_mute.png",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\drawable\\btn_mute.png"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_fan.png",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\drawable\\btn_fan.png"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_power32.png",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\drawable\\btn_power32.png"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_dvd.png",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\drawable\\btn_dvd.png"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_btn_sandrift.xml",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\drawable\\custom_btn_sandrift.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_btn_beige.xml",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\drawable\\custom_btn_beige.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_projector.png",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\drawable\\btn_projector.png"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_menu.png",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\drawable\\btn_menu.png"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "H:\\SQLiteExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_changelayout1.png",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\drawable\\btn_changelayout1.png"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_changelayout2.png",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\drawable\\btn_changelayout2.png"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_uparrow.png",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\drawable\\btn_uparrow.png"
+    }
+]

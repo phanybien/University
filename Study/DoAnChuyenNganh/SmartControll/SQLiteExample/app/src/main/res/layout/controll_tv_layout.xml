@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="40dp">
+
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:text="+"
+        android:id="@+id/btn_tv_ChannelUp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="false"
+        android:textSize="20dp"
+        style="@style/btnStyleMyButton"/>
+
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:text="-"
+        android:id="@+id/btn_tv_ChanelDown"
+        android:layout_below="@+id/txt_Channel"
+        android:layout_alignParentStart="false"
+        android:textSize="20dp"
+        style="@style/btnStyleMyButton"
+        android:layout_marginTop="5dp" />
+
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:text="+"
+        android:id="@+id/btn_tv_VolumeUp"
+        android:textSize="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        style="@style/btnStyleMyButton"/>
+
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:text="-"
+        android:id="@+id/btn_tv_VolumeDown"
+        android:textSize="20dp"
+        style="@style/btnStyleMyButton"
+        android:layout_alignTop="@+id/btn_tv_Menu"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:text="ON"
+        android:id="@+id/btn_tv_PowerOn"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/btn_tv_ChannelUp"
+        android:layout_marginLeft="10dp"
+        style="@style/btnStyleMyButton"
+        android:textColor="#ff0000" />
+
+    <Button
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:text="OFF"
+        android:id="@+id/btn_tv_PowerOff"
+        android:layout_alignParentTop="true"
+        android:layout_toStartOf="@+id/btn_tv_VolumeUp"
+        android:layout_marginRight="10dp"
+        style="@style/btnStyleMyButton"
+        android:textColor="#ff0000" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="CHANNEL"
+        android:id="@+id/txt_Channel"
+        android:layout_below="@+id/btn_tv_ChannelUp"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="10dp"
+        android:textSize="11dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="VOLUME"
+        android:id="@+id/txt_Volume"
+        android:layout_above="@+id/btn_tv_VolumeDown"
+        android:layout_alignEnd="@+id/btn_tv_VolumeDown"
+        android:layout_marginBottom="4dp"
+        android:textSize="11dp"
+        android:layout_marginRight="4dp" />
+
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/btn_tv_Mute"
+        android:drawableLeft="@drawable/btn_mute"
+        style="@style/btnStyleMyButton"
+        android:layout_alignTop="@+id/btn_tv_ChanelDown"
+        android:layout_alignStart="@+id/btn_tv_PowerOn" />
+
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/btn_tv_Menu"
+        android:drawableLeft="@drawable/btn_menu"
+        style="@style/btnStyleMyButton"
+        android:layout_alignTop="@+id/btn_tv_Mute"
+        android:layout_alignEnd="@+id/btn_tv_PowerOff" />
+
+    <include
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout="@layout/tv_layout1"
+        android:id="@+id/include"
+        android:layout_below="@+id/btn_tv_ChanelDown"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true" />
+
+    <include
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout="@layout/tv_layout2"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/include" />
+
+    <ImageButton
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:id="@+id/btn_tv_ChangeLayout1"
+        android:background="@drawable/btn_changelayout1"
+        android:layout_below="@+id/btn_tv_VolumeDown"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="135dp" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_tv_ChangeLayout2"
+        android:layout_alignTop="@+id/btn_tv_ChangeLayout1"
+        android:background="@drawable/btn_changelayout2" />
+
+</RelativeLayout>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_adddevice.xml",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\menu\\menu_adddevice.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "H:\\SQLiteExample\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_settings.xml",
+        "source": "H:\\SQLiteExample\\app\\src\\main\\res\\menu\\menu_settings.xml"
+    }
+]

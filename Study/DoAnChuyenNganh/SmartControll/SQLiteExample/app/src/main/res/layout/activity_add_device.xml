@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.kai.AddDeviceActivity">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="false"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="50dp">
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="125dp"
+            android:text="TV"
+            android:id="@+id/btn_TV"
+            style="@style/btnStyleSeagull"
+            android:layout_column="0"
+            android:drawableTop="@drawable/btn_tv"
+            android:layout_row="0"
+            android:layout_above="@+id/btn_DVD"
+            android:layout_alignParentStart="true"
+            android:layout_gravity="left|top" />
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="125dp"
+            android:text="Air Conditioner"
+            android:id="@+id/btn_AC"
+            style="@style/btnStyleSeagull"
+            android:layout_column="1"
+            android:textSize="13dp"
+            android:drawableTop="@drawable/btn_ac"
+            android:layout_row="0"
+            android:layout_above="@+id/btn_Projector"
+            android:layout_alignStart="@+id/btn_Projector"
+            android:layout_gravity="right|top" />
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="125dp"
+            android:text="DVD"
+            android:id="@+id/btn_DVD"
+            style="@style/btnStyleSeagull"
+            android:layout_column="0"
+            android:textSize="13dp"
+            android:drawableTop="@drawable/btn_dvd"
+            android:layout_row="9"
+            android:layout_above="@+id/btn_Fan"
+            android:layout_alignParentStart="true"
+            android:layout_gravity="left|center_vertical" />
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="125dp"
+            android:text="Projector"
+            android:id="@+id/btn_Projector"
+            style="@style/btnStyleSeagull"
+            android:layout_column="1"
+            android:textSize="13dp"
+            android:drawableTop="@drawable/btn_projector"
+            android:layout_row="9"
+            android:layout_above="@+id/btn_DSLR"
+            android:layout_alignParentEnd="true"
+            android:layout_gravity="right|center_vertical" />
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="125dp"
+            android:text="Fan"
+            android:id="@+id/btn_Fan"
+            style="@style/btnStyleSeagull"
+            android:layout_column="0"
+            android:textSize="13dp"
+            android:drawableTop="@drawable/btn_fan"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:layout_row="11"
+            android:layout_gravity="left|bottom" />
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="125dp"
+            android:text="DSLR"
+            android:id="@+id/btn_DSLR"
+            style="@style/btnStyleSeagull"
+            android:layout_column="1"
+            android:textSize="13dp"
+            android:drawableTop="@drawable/btn_dslr"
+            android:layout_alignTop="@+id/btn_Fan"
+            android:layout_alignParentEnd="true"
+            android:layout_row="11"
+            android:layout_gravity="right|bottom" />
+    </FrameLayout>
+
+</RelativeLayout>
