@@ -1,0 +1,74 @@
+﻿* Ý tưởng game:
+	- Sử dụng cảm biến gia tộc (Accelerometer sensor) để điều khiển nhân vật di chuyển trong game.
+	- Sử dụng thuật toán A* để tạo AI cho enemy tìm đường đi đến các item cho trước.
+	- Có thể 1 level game diễn ra trong một thời gian nhất định
+	- Các item bị mất đi, có thể sẽ xuất hiện một item khác, đảm bảo cân bằng các item, hoặc ko cần thiết phải sinh ra một item khác -> phụ thuộc sự cân bằng với time của level game
+
+* Demo ý tưởng:
+	- Start game:
+		+ Sẽ có một list các nhân vật. Player được cung cấp một số nhân vật free.
+		+ Khi đạt được số điểm cụ thể pass các level sẽ unlock nhân vật mới.
+		+ Cho phép player chọn một nhân vật cụ thể để bắt đầu (vd: mèo, chó, heo...)
+		+ Mỗi nhân vật sé có một số level. (Có thể có rating).
+	- In game:
+		+ Nhân vật sẽ có một property riêng (vd: exp, weight, length,...).
+		+ Nhân vật của player được đặt ở một vị trí cụ thể trên màn hình. có thể bị giới hạn phạm vi (chuồng, nông trại,...).
+		+ Player di chuyển nhân vật để va chạm với các đối tượng khác trong game.
+		+ Khi va chạm sẽ xử lý theo một điều kiện cụ thể:
+			# Va chạm với đối tượng nhỏ hơn (ally) => property của Nhân vật cộng dồn (tăng lên).
+			# Va chạm với đối tượng lớn hơn (enemy) => chết.
+			# Va chạm với item (Làm chạm enemy, + Mạng, + thểi gian, tool, troll,...).
+		+ Các enemy cũng có thể ăn các item, và tương tác với các enemy khác.
+
+
+
+
+======================== Game Design ==================================
+
+1. Game Play
+ - 
+ - 
+ - 
+ -
+
+
+
+2. Màn hình bắt đầu
+  + Nút play
+  + Hight Score
+  + Setting
+
+3. Màn hình khi bấm nút Play
+  + Hiện list nhân vật cho người chơi chọn
+
+4. Màn hình khi chọn một level đã unlock
+ + Vô màn hình play game
+
+5. Màn hình Play game
+
+6. Màn hình Game Over
+ + Thông báo game over: 'mày ngu quá, chơi lại đi con'
+ + Nút Replay
+ + Nút Share to social network
+
+7. Màn hình Setting
+ + Custom âm thanh
+ + Custom skin
+
+8. Màn hình khi chọn nhân vật game
+ + hiển thị hộp thoại
+   + button 'go to level list'
+   + custom skin
+
+9. Màn hình khi bấm nút 'go to level list'
+   + Hiện list level game
+    + Level nào chơi rồi, mở khóa rồi thì cho phép chọn
+    + Level nào chưa mở khóa thì ko cho phép chọn
+
+10. Màn hình Custom skin
+  + Góc trên bên trái là khung chứa hình nhân vật
+  + Kế bên cạnh khung đó, có các khung hiển thị item theo 'bộ phận' của nhân vật (đã mua rồi) (tags)
+  + Tương ứng với mỗi khung item có 2 nút mũi tên, dùng để back về or next tới item khác đã mua (các items đó được gắn chung tag)
+  + Nửa dưới màn hình có Shop, trong Shop có các Tabs, tương ứng với mỗi Tag ('bộ phận')
+  + Mỗi Tab sẽ hiện ra danh sách các Item chưa mua, kèm theo giá tiền
+  + Hiển thị nút mua item

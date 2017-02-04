@@ -1,0 +1,21 @@
+﻿Animation:
+	Animator anim;
+	void Start (){
+		anim = GetCompenent<Animator>();
+	}
+	void Update (){
+		if (rigid.velocity.x != 0 || rigid.velocity.y != 0)
+                	anim.SetBool("isRun", true);
+        
+		else
+            		anim.SetBool("isRun", false);
+	}
+HighScore:
+	GlobalManager.score += 1;
+        if (GlobalManager.score >= GlobalManager.highscore)
+        {
+        	GlobalManager.highscore = GlobalManager.score;
+                PlayerPrefs.SetInt("highScore", GlobalManager.highscore);
+        }
+Show Prefab:
+	Instantiate(prefab, position, Quaternion.identity);

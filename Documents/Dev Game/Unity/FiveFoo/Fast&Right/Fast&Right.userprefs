@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AudioController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Light\Light.cs" Line="66" Column="4" />
+      <File FileName="Assets\Scripts\Light\LightManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AudioController.cs" Line="14" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
