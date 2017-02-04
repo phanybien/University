@@ -1,0 +1,6 @@
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelContentWin\bin\x86\Release\AnimatedModelContentWin.dll
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelContentWin\bin\x86\Release\AnimatedModelContentWin.pdb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelContentWin\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelContentWin\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelContentWin\obj\x86\Release\AnimatedModelContentWin.dll
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelContentWin\obj\x86\Release\AnimatedModelContentWin.pdb

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="XNA TPS">
+</Property><Property Name="Solution File" Value="C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\XNA TPS.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\XNA TPS.suo">
+</Property><Property Name="Date" Value="Monday, March 24, 2014">
+</Property><Property Name="Time" Value="18:55 PM">
+</Property><Property Name="Solution" Value="XNA TPS">
+</Property><Property Name="Solution File" Value="C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\XNA TPS.sln">
+</Property><Property Name="Date" Value="Monday, March 24, 2014">
+</Property><Property Name="Time" Value="18:55:43 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="XNA TPS.sln" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS.sln">
+</Event><Event ErrorLevel="0" Project="" Source="XNA TPS.suo" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS.suo">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\XNA TPS.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\XNA TPS.csproj" Description="Project file successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\XNA TPS.csproj">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\XNA TPS.csproj.user" Description="Project user file successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\XNA TPS.csproj.user">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\Helpers\convertEffectHelper.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\Helpers\convertEffectHelper.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\helpScreen.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\helpScreen.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameAssetsPath.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameAssetsPath.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\ParticleSystems\BloodParticleSystem.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\ParticleSystems\BloodParticleSystem.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\Cameras\BaseCamera.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\Cameras\BaseCamera.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\Cameras\CameraManager.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\Cameras\CameraManager.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\Cameras\FixedCamera.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\Cameras\FixedCamera.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\Cameras\ThirdPersonCamera.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\Cameras\ThirdPersonCamera.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\Effects\AnimatedModelEffect.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\Effects\AnimatedModelEffect.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\Effects\TerrainEffect.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\Effects\TerrainEffect.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\ParticleSystems\EvilParticleSystem.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\ParticleSystems\EvilParticleSystem.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\ParticleSystems\ExplosionParticleSystem.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\ParticleSystems\ExplosionParticleSystem.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\ParticleSystems\ExplosionSmokeParticleSystem.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\ParticleSystems\ExplosionSmokeParticleSystem.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\ParticleSystems\FireParticleSystem.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\ParticleSystems\FireParticleSystem.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\ParticleSystems\IceParticleSystem.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\ParticleSystems\IceParticleSystem.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\Lights\BaseLight.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\Lights\BaseLight.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\Lights\LightManager.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\Lights\LightManager.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\Lights\PointLight.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\Lights\PointLight.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\Materials\LightMaterial.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\Materials\LightMaterial.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\Materials\TerrainMaterial.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\Materials\TerrainMaterial.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\Materials\TextureMaterial.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\Materials\TextureMaterial.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\ParticleEmitter.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\ParticleEmitter.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\ParticleSettings.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\ParticleSettings.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\ParticleSystem.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\ParticleSystem.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\ParticleVertex.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\ParticleVertex.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\Shapes\AnimatedModel.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\Shapes\AnimatedModel.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\Shapes\SkyDome.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\Shapes\SkyDome.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\Shapes\Terrain.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\Shapes\Terrain.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\ParticleSystems\SmokePlumeParticleSystem.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\ParticleSystems\SmokePlumeParticleSystem.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameBase\Transformation.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameBase\Transformation.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameLogic\Acher.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameLogic\Acher.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameLogic\Bullet.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameLogic\Bullet.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameLogic\Enemy.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameLogic\Enemy.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameLogic\Levels\GameLevel.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameLogic\Levels\GameLevel.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameLogic\Levels\LevelCreator.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameLogic\Levels\LevelCreator.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameLogic\Skills.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameLogic\Skills.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameLogic\Skills\AmorAura.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameLogic\Skills\AmorAura.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameLogic\Skills\IceBlast.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameLogic\Skills\IceBlast.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameLogic\Skills\FireBurning.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameLogic\Skills\FireBurning.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameLogic\StaticModel.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameLogic\StaticModel.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameLogic\UnitTypes.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameLogic\UnitTypes.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameLogic\Player.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameLogic\Player.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameLogic\PlayerWeapon.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameLogic\PlayerWeapon.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameLogic\TerrainUnit.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameLogic\TerrainUnit.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\Helpers\FrameCounterHelper.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\Helpers\FrameCounterHelper.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\Helpers\InputHelper.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\Helpers\InputHelper.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\Helpers\RandomHelper.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\Helpers\RandomHelper.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\Helpers\VertexPositionTangentBinormalTexture.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\Helpers\VertexPositionTangentBinormalTexture.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\Helpers\XNAUtils.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\Helpers\XNAUtils.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\Program.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\Program.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameScreen.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameScreen.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\Helpers\SettingsManager.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\Helpers\SettingsManager.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\Screen.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\Screen.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\StartScreen.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\StartScreen.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\TPSGame.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\TPSGame.cs">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\XNA TPS_TemporaryKey.pfx" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\XNA TPS_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\Game.ico" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\Game.ico">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\GameThumbnail.png" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\XNA TPS\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\XNA TPS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="XNA TPS" Source="XNA TPS\XNA TPS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AnimatedModelContentWin" Source="AnimatedModelContentWin\AnimatedModelContentWin.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="AnimatedModelContentWin" Source="AnimatedModelContentWin\AnimatedModelContentWin.csproj" Description="Project file successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\AnimatedModelContentWin\AnimatedModelContentWin.csproj">
+</Event><Event ErrorLevel="0" Project="AnimatedModelContentWin" Source="AnimatedModelContentWin\AnimatedModelContentWin.csproj.user" Description="Project user file successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\AnimatedModelContentWin\AnimatedModelContentWin.csproj.user">
+</Event><Event ErrorLevel="0" Project="AnimatedModelContentWin" Source="AnimatedModelContentWin\AnimatedModelData.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\AnimatedModelContentWin\AnimatedModelData.cs">
+</Event><Event ErrorLevel="0" Project="AnimatedModelContentWin" Source="AnimatedModelContentWin\AnimatedModelDataReader.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\AnimatedModelContentWin\AnimatedModelDataReader.cs">
+</Event><Event ErrorLevel="0" Project="AnimatedModelContentWin" Source="AnimatedModelContentWin\AnimationData.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\AnimatedModelContentWin\AnimationData.cs">
+</Event><Event ErrorLevel="0" Project="AnimatedModelContentWin" Source="AnimatedModelContentWin\Keyframe.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\AnimatedModelContentWin\Keyframe.cs">
+</Event><Event ErrorLevel="0" Project="AnimatedModelContentWin" Source="AnimatedModelContentWin\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\AnimatedModelContentWin\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AnimatedModelContentWin" Source="AnimatedModelContentWin\AnimatedModelContentWin.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AnimatedModelContentWin" Source="AnimatedModelContentWin\AnimatedModelContentWin.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AnimatedModelProcessorWin" Source="AnimatedModelProcessorWin\AnimatedModelProcessorWin.csproj" Description="Project file successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\AnimatedModelProcessorWin\AnimatedModelProcessorWin.csproj">
+</Event><Event ErrorLevel="0" Project="AnimatedModelProcessorWin" Source="AnimatedModelProcessorWin\AnimatedModelProcessorWin.csproj.user" Description="Project user file successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\AnimatedModelProcessorWin\AnimatedModelProcessorWin.csproj.user">
+</Event><Event ErrorLevel="0" Project="AnimatedModelProcessorWin" Source="AnimatedModelProcessorWin\AnimatedModelDataWriter.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\AnimatedModelProcessorWin\AnimatedModelDataWriter.cs">
+</Event><Event ErrorLevel="0" Project="AnimatedModelProcessorWin" Source="AnimatedModelProcessorWin\AnimatedModelProcessor.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\AnimatedModelProcessorWin\AnimatedModelProcessor.cs">
+</Event><Event ErrorLevel="0" Project="AnimatedModelProcessorWin" Source="AnimatedModelProcessorWin\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\Backup\AnimatedModelProcessorWin\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AnimatedModelProcessorWin" Source="AnimatedModelProcessorWin\AnimatedModelProcessorWin.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AnimatedModelProcessorWin" Source="AnimatedModelProcessorWin\AnimatedModelProcessorWin.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="XNA TPS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="XNA TPS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\XNA TPS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="XNA TPS" Source="XNA TPS\XNA TPS.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Amor.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="bg copy.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="bloodyAura.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="BloodyAuraDown.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="EnemyStatusBG.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Evil.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="EvilDown.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Exp.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="fire.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="fireDown.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="frost.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="frostDown.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="help.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="IceAura.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="info.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="LiveHp.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="LiveMp.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="MeleAtt.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="MeleAttDown.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="NoSelect.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Range.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="rangeDown.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Regen.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Selected.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="statusBG.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="swordCircle.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="swordcircleDown.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Thumbs.db" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Untitled-1.psd" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="backmusic.mp3" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="AnimatedModel.fx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="ParticleEffect.fx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Terrain.fx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="menuLarge.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="ammo.x" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="EnemyBeast.fbx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="PlayerMarine.fbx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Skydome.x" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="WeaponMachineGun.fbx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="GameSettings.xml" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="1_1.bmp" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="1_10.bmp" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="1_13.bmp" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="1_3.bmp" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="1_5.bmp" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="1_8.bmp" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="soilder.x" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Sword.x" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Thumbs.db" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="alphaMap.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Cópia de Terrain1.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="EnemyBeastDiffuse.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="engine_diff_tex.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="PlayerMarineDiffuse.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="rockbump.dds" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="ShipDiffuse.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Skydome.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Terrain1.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Terrain2.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Terrain3.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Terrain4.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Thumbs.db" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="turret_alt_diff_tex.tga" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="WeaponMachineGunDiffuse.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="weaponTarget.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="blood.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="explosion.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="fire.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Ice Aura.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="smoke.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Terrain1.bmp" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Thumbs.db" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="XNA TPSContent" Source="XNA TPS\Content\XNA TPSContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event><Event ErrorLevel="0" Project="AnimatedModelContentWin" Source="AnimatedModelContentWin\AnimatedModelContentWin.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="AnimatedModelContentWin" Source="AnimatedModelContentWin\AnimatedModelContentWin.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="AnimatedModelContentWin" Source="Content\Content.contentproj" Description="Upgrade of Library project 'AnimatedModelContentWin' removed a reference to the empty Content Project 'C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\AnimatedModelContentWin\Content\Content.contentproj'.">
+</Event><Event ErrorLevel="0" Project="AnimatedModelProcessorWin" Source="AnimatedModelProcessorWin\AnimatedModelProcessorWin.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="AnimatedModelProcessorWin" Source="AnimatedModelProcessorWin\AnimatedModelProcessorWin.csproj" Description="Upgraded XNA Framework Content Pipeline References.">
+</Event><Event ErrorLevel="0" Project="AnimatedModelProcessorWin" Source="AnimatedModelProcessorWin\AnimatedModelProcessorWin.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event></UpgradeLog>

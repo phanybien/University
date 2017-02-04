@@ -1,0 +1,10 @@
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelProcessorWin\bin\x86\Debug\AnimatedModelProcessorWin.dll
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelProcessorWin\bin\x86\Debug\AnimatedModelProcessorWin.pdb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelProcessorWin\bin\x86\Debug\AnimatedModelContentWin.dll
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelProcessorWin\bin\x86\Debug\AnimatedModelContentWin.pdb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelProcessorWin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelProcessorWin\obj\x86\Debug\AnimatedModelProcessorWin.dll
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelProcessorWin\obj\x86\Debug\AnimatedModelProcessorWin.pdb
+C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\AnimatedModelProcessorWin\obj\x86\Debug\AnimatedModelProcessorWin.csprojResolveAssemblyReference.cache
+C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\AnimatedModelProcessorWin\obj\x86\Debug\AnimatedModelProcessorWin.dll
+C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\AnimatedModelProcessorWin\obj\x86\Debug\AnimatedModelProcessorWin.pdb

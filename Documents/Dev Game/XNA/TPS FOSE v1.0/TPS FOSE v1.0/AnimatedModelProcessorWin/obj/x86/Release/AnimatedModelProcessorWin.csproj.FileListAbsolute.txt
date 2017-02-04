@@ -1,0 +1,7 @@
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelProcessorWin\bin\x86\Release\AnimatedModelProcessorWin.dll
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelProcessorWin\bin\x86\Release\AnimatedModelProcessorWin.pdb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelProcessorWin\bin\x86\Release\AnimatedModelContentWin.dll
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelProcessorWin\bin\x86\Release\AnimatedModelContentWin.pdb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelProcessorWin\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelProcessorWin\obj\x86\Release\AnimatedModelProcessorWin.dll
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelProcessorWin\obj\x86\Release\AnimatedModelProcessorWin.pdb

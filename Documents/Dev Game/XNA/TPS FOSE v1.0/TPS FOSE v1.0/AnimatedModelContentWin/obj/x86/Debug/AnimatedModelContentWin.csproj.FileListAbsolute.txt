@@ -1,0 +1,12 @@
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelContentWin\bin\x86\Debug\AnimatedModelContentWin.dll
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelContentWin\bin\x86\Debug\AnimatedModelContentWin.pdb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelContentWin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelContentWin\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelContentWin\obj\x86\Debug\AnimatedModelContentWin.dll
+C:\Documents and Settings\OWNER\Desktop\Chapter13\AnimatedModelContentWin\obj\x86\Debug\AnimatedModelContentWin.pdb
+C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\AnimatedModelContentWin\bin\x86\Debug\AnimatedModelContentWin.dll
+C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\AnimatedModelContentWin\bin\x86\Debug\AnimatedModelContentWin.pdb
+C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\AnimatedModelContentWin\obj\x86\Debug\AnimatedModelContentWin.csprojResolveAssemblyReference.cache
+C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\AnimatedModelContentWin\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\AnimatedModelContentWin\obj\x86\Debug\AnimatedModelContentWin.dll
+C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\AnimatedModelContentWin\obj\x86\Debug\AnimatedModelContentWin.pdb

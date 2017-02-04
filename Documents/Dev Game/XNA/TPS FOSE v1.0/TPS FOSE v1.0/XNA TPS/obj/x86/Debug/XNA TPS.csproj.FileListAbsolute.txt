@@ -1,0 +1,90 @@
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Effects\AnimatedModel.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Effects\Terrain.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Models\EnemyBeast.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Models\PlayerMarine.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Models\WeaponMachineGun.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Models\Skydome.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Fonts\BerlinSans.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Textures\alphaMap.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Textures\rockbump.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Textures\Skydome.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Textures\EnemyBeastDiffuse.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Textures\PlayerMarineDiffuse.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Textures\Terrain1.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Textures\Terrain2.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Textures\Terrain3.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Textures\Terrain4.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Textures\WeaponMachineGunDiffuse.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Textures\weaponTarget.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Terrain1.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Textures\EnemyBeastDiffuse_0.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Textures\PlayerMarineDiffuse_0.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Textures\WeaponMachineGunDiffuse_0.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Settings\GameSettings.xml
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\XNA TPS.exe
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\XNA TPS.pdb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\AnimatedModelContentWin.dll
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\AnimatedModelContentWin.pdb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\obj\x86\Debug\XNA TPS.exe
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\obj\x86\Debug\XNA TPS.pdb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Effects\ParticleEffect.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\blood.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\explosion.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\fire.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\smoke.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Models\ammo.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\Amor.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\bloodyAura.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\BloodyAuraDown.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\EnemyStatusBG.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\Evil.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\EvilDown.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\Exp.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\fire.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\fireDown.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\frost.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\frostDown.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\IceAura.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\LiveHp.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\LiveMp.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\MeleAtt.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\MeleAttDown.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\NoSelect.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\Range.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\rangeDown.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\Regen.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\Selected.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\statusBG.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\swordCircle.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\swordcircleDown.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\BG.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\help.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\2Dgraphics\info.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Ice.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\audio\backmusic.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\audio\backmusic.wma
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\XNA TPS.exe.manifest
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\XNA TPS.application
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\obj\x86\Debug\XNA TPS.exe.manifest
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\obj\x86\Debug\XNA TPS.application
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Textures\ShipDiffuse.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Textures\engine_diff_tex.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\Textures\turret_alt_diff_tex.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\StaticModel\soilder.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\StaticModel\Sword.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\StaticModel\1_1.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\StaticModel\1_10.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\StaticModel\1_13.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\StaticModel\1_3.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\StaticModel\1_5.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\StaticModel\1_8.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\StaticModel\1_8_0.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\StaticModel\1_10_0.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\StaticModel\1_3_0.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\StaticModel\1_13_0.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\StaticModel\1_1_0.xnb
+C:\Documents and Settings\OWNER\Desktop\Chapter13\XNA TPS\bin\x86\Debug\Content\StaticModel\1_5_0.xnb
+C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\XNA TPS\obj\x86\Debug\XNA TPS.exe
+C:\Users\Bien\Downloads\TPS FOSE v1.0\TPS FOSE v1.0\XNA TPS\obj\x86\Debug\XNA TPS.pdb

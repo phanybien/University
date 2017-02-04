@@ -1,0 +1,33 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Game\Game\Game\bin\x86\Debug\Game.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Game\Game\Game\bin\x86\Debug\Game.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Game\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Game\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Game\Game\Game\obj\x86\Debug\Game.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Game\Game\Game\obj\x86\Debug\Game.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Game\Game\Game\bin\x86\Debug\Content\bong.xnb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Game\Game\Game\bin\x86\Debug\Game.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Game\Game\Game\bin\x86\Debug\Game.application
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Game\Game\Game\obj\x86\Debug\Game.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Game\Game\Game\obj\x86\Debug\Game.application
+C:\Users\Bien\Downloads\game demo\hoangthien\Game\Game\bin\x86\Debug\Content\bong.xnb
+C:\Users\Bien\Downloads\game demo\hoangthien\Game\Game\bin\x86\Debug\Game.exe.manifest
+C:\Users\Bien\Downloads\game demo\hoangthien\Game\Game\bin\x86\Debug\Game.application
+C:\Users\Bien\Downloads\game demo\hoangthien\Game\Game\bin\x86\Debug\Game.exe
+C:\Users\Bien\Downloads\game demo\hoangthien\Game\Game\bin\x86\Debug\Game.pdb
+C:\Users\Bien\Downloads\game demo\hoangthien\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Bien\Downloads\game demo\hoangthien\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bien\Downloads\game demo\hoangthien\Game\Game\obj\x86\Debug\Game.exe.manifest
+C:\Users\Bien\Downloads\game demo\hoangthien\Game\Game\obj\x86\Debug\Game.application
+C:\Users\Bien\Downloads\game demo\hoangthien\Game\Game\obj\x86\Debug\Game.exe
+C:\Users\Bien\Downloads\game demo\hoangthien\Game\Game\obj\x86\Debug\Game.pdb
+E:\Project Game\XNA\game demo\hoangthien\Game\Game\bin\x86\Debug\Content\bong.xnb
+E:\Project Game\XNA\game demo\hoangthien\Game\Game\bin\x86\Debug\Game.exe.manifest
+E:\Project Game\XNA\game demo\hoangthien\Game\Game\bin\x86\Debug\Game.application
+E:\Project Game\XNA\game demo\hoangthien\Game\Game\bin\x86\Debug\Game.exe
+E:\Project Game\XNA\game demo\hoangthien\Game\Game\bin\x86\Debug\Game.pdb
+E:\Project Game\XNA\game demo\hoangthien\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+E:\Project Game\XNA\game demo\hoangthien\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Project Game\XNA\game demo\hoangthien\Game\Game\obj\x86\Debug\Game.exe.manifest
+E:\Project Game\XNA\game demo\hoangthien\Game\Game\obj\x86\Debug\Game.application
+E:\Project Game\XNA\game demo\hoangthien\Game\Game\obj\x86\Debug\Game.exe
+E:\Project Game\XNA\game demo\hoangthien\Game\Game\obj\x86\Debug\Game.pdb
