@@ -1,0 +1,12 @@
+C:\Users\Canh\Downloads\Compressed\EyesOfTheDragon2\EyesOfTheDragon\RpgLibrary\bin\Debug\RpgLibrary.dll
+C:\Users\Canh\Downloads\Compressed\EyesOfTheDragon2\EyesOfTheDragon\RpgLibrary\bin\Debug\RpgLibrary.pdb
+C:\Users\Canh\Downloads\Compressed\EyesOfTheDragon2\EyesOfTheDragon\RpgLibrary\obj\Debug\RpgLibrary.dll
+C:\Users\Canh\Downloads\Compressed\EyesOfTheDragon2\EyesOfTheDragon\RpgLibrary\obj\Debug\RpgLibrary.pdb
+E:\Lap Trinh Truc Quan\[XNA]\GameMegamanZezo\RpgLibrary\bin\Debug\RpgLibrary.dll
+E:\Lap Trinh Truc Quan\[XNA]\GameMegamanZezo\RpgLibrary\bin\Debug\RpgLibrary.pdb
+E:\Lap Trinh Truc Quan\[XNA]\GameMegamanZezo\RpgLibrary\obj\Debug\RpgLibrary.dll
+E:\Lap Trinh Truc Quan\[XNA]\GameMegamanZezo\RpgLibrary\obj\Debug\RpgLibrary.pdb
+C:\Users\Bien\Downloads\GameMegamanZezo\RpgLibrary\bin\Debug\RpgLibrary.dll
+C:\Users\Bien\Downloads\GameMegamanZezo\RpgLibrary\bin\Debug\RpgLibrary.pdb
+C:\Users\Bien\Downloads\GameMegamanZezo\RpgLibrary\obj\Debug\RpgLibrary.dll
+C:\Users\Bien\Downloads\GameMegamanZezo\RpgLibrary\obj\Debug\RpgLibrary.pdb

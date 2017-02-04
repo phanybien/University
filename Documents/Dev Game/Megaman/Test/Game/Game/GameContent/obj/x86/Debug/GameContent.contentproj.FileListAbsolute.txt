@@ -1,0 +1,5 @@
+C:\Users\Forever Love\documents\visual studio 2010\Projects\Game\Game\GameContent\obj\x86\Debug\GameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Bien\Downloads\Game\Game\GameContent\obj\x86\Debug\GameContent.contentprojResolveAssemblyReference.cache
+E:\Project Game\Class\Game\Game\GameContent\obj\x86\Debug\GameContent.contentprojResolveAssemblyReference.cache
+E:\Project Game\Project Songoku\Class\Game\Game\GameContent\obj\x86\Debug\GameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\GameContent\obj\x86\Debug\GameContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+C:\Users\Canh\Downloads\Compressed\EyesOfTheDragon2\EyesOfTheDragon\XRpgLibrary\bin\x86\Debug\XRpgLibrary.dll
+C:\Users\Canh\Downloads\Compressed\EyesOfTheDragon2\EyesOfTheDragon\XRpgLibrary\bin\x86\Debug\XRpgLibrary.pdb
+C:\Users\Canh\Downloads\Compressed\EyesOfTheDragon2\EyesOfTheDragon\XRpgLibrary\obj\x86\Debug\XRpgLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Canh\Downloads\Compressed\EyesOfTheDragon2\EyesOfTheDragon\XRpgLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Canh\Downloads\Compressed\EyesOfTheDragon2\EyesOfTheDragon\XRpgLibrary\obj\x86\Debug\XRpgLibrary.dll
+C:\Users\Canh\Downloads\Compressed\EyesOfTheDragon2\EyesOfTheDragon\XRpgLibrary\obj\x86\Debug\XRpgLibrary.pdb
+E:\Lap Trinh Truc Quan\[XNA]\GameMegamanZezo\XRpgLibrary\bin\x86\Debug\XRpgLibrary.dll
+E:\Lap Trinh Truc Quan\[XNA]\GameMegamanZezo\XRpgLibrary\bin\x86\Debug\XRpgLibrary.pdb
+E:\Lap Trinh Truc Quan\[XNA]\GameMegamanZezo\XRpgLibrary\obj\x86\Debug\XRpgLibrary.csprojResolveAssemblyReference.cache
+E:\Lap Trinh Truc Quan\[XNA]\GameMegamanZezo\XRpgLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Lap Trinh Truc Quan\[XNA]\GameMegamanZezo\XRpgLibrary\obj\x86\Debug\XRpgLibrary.dll
+E:\Lap Trinh Truc Quan\[XNA]\GameMegamanZezo\XRpgLibrary\obj\x86\Debug\XRpgLibrary.pdb
+C:\Users\Bien\Downloads\GameMegamanZezo\XRpgLibrary\bin\x86\Debug\XRpgLibrary.dll
+C:\Users\Bien\Downloads\GameMegamanZezo\XRpgLibrary\bin\x86\Debug\XRpgLibrary.pdb
+C:\Users\Bien\Downloads\GameMegamanZezo\XRpgLibrary\obj\x86\Debug\XRpgLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Bien\Downloads\GameMegamanZezo\XRpgLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bien\Downloads\GameMegamanZezo\XRpgLibrary\obj\x86\Debug\XRpgLibrary.dll
+C:\Users\Bien\Downloads\GameMegamanZezo\XRpgLibrary\obj\x86\Debug\XRpgLibrary.pdb

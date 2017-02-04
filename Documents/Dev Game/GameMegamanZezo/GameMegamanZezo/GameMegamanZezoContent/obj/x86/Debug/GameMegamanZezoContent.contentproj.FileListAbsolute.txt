@@ -1,0 +1,2 @@
+E:\Lap Trinh Truc Quan\[XNA]\GameMegamanZezo\GameMegamanZezo\GameMegamanZezoContent\obj\x86\Debug\GameMegamanZezoContent.contentprojResolveAssemblyReference.cache
+C:\Users\Bien\Downloads\GameMegamanZezo\GameMegamanZezo\GameMegamanZezoContent\obj\x86\Debug\GameMegamanZezoContent.contentprojResolveAssemblyReference.cache

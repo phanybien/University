@@ -1,0 +1,101 @@
+C:\Users\Forever Love\documents\visual studio 2010\Projects\Game\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Forever Love\documents\visual studio 2010\Projects\Game\Game\Game\bin\x86\Debug\Content\Di.xnb
+C:\Users\Forever Love\documents\visual studio 2010\Projects\Game\Game\Game\bin\x86\Debug\Game.exe
+C:\Users\Forever Love\documents\visual studio 2010\Projects\Game\Game\Game\bin\x86\Debug\Game.pdb
+C:\Users\Forever Love\documents\visual studio 2010\Projects\Game\Game\Game\obj\x86\Debug\Game.exe
+C:\Users\Forever Love\documents\visual studio 2010\Projects\Game\Game\Game\obj\x86\Debug\Game.pdb
+C:\Users\Forever Love\documents\visual studio 2010\Projects\Game\Game\Game\bin\x86\Debug\Content\Nhay.xnb
+C:\Users\Forever Love\documents\visual studio 2010\Projects\Game\Game\Game\bin\x86\Debug\Content\Da.xnb
+C:\Users\Forever Love\documents\visual studio 2010\Projects\Game\Game\Game\bin\x86\Debug\Content\Dam.xnb
+C:\Users\Forever Love\documents\visual studio 2010\Projects\Game\Game\Game\bin\x86\Debug\Content\Dung.xnb
+C:\Users\Forever Love\documents\visual studio 2010\Projects\Game\Game\Game\bin\x86\Debug\Content\Ngoi.xnb
+C:\Users\Forever Love\documents\visual studio 2010\Projects\Game\Game\Game\bin\x86\Debug\Content\NhayToi.xnb
+C:\Users\Forever Love\documents\visual studio 2010\Projects\Game\Game\Game\bin\x86\Debug\Content\NgoiDa.xnb
+C:\Users\Forever Love\documents\visual studio 2010\Projects\Game\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Forever Love\documents\visual studio 2010\Projects\Game\Game\Game\bin\x86\Debug\Content\NgoiDam.xnb
+C:\Users\Forever Love\documents\visual studio 2010\Projects\Game\Game\Game\bin\x86\Debug\Content\NhayDa.xnb
+C:\Users\Forever Love\documents\visual studio 2010\Projects\Game\Game\Game\bin\x86\Debug\Content\NhayDam.xnb
+C:\Users\Forever Love\documents\visual studio 2010\Projects\Game\Game\Game\bin\x86\Debug\Content\Nga.xnb
+C:\Users\Forever Love\documents\visual studio 2010\Projects\Game\Game\Game\bin\x86\Debug\Content\DungDay.xnb
+C:\Users\Bien\Downloads\Game\Game\Game\bin\x86\Debug\Content\Di.xnb
+C:\Users\Bien\Downloads\Game\Game\Game\bin\x86\Debug\Content\Nhay.xnb
+C:\Users\Bien\Downloads\Game\Game\Game\bin\x86\Debug\Content\Da.xnb
+C:\Users\Bien\Downloads\Game\Game\Game\bin\x86\Debug\Content\Dam.xnb
+C:\Users\Bien\Downloads\Game\Game\Game\bin\x86\Debug\Content\Dung.xnb
+C:\Users\Bien\Downloads\Game\Game\Game\bin\x86\Debug\Content\Ngoi.xnb
+C:\Users\Bien\Downloads\Game\Game\Game\bin\x86\Debug\Content\NhayToi.xnb
+C:\Users\Bien\Downloads\Game\Game\Game\bin\x86\Debug\Content\NgoiDa.xnb
+C:\Users\Bien\Downloads\Game\Game\Game\bin\x86\Debug\Content\NgoiDam.xnb
+C:\Users\Bien\Downloads\Game\Game\Game\bin\x86\Debug\Content\NhayDa.xnb
+C:\Users\Bien\Downloads\Game\Game\Game\bin\x86\Debug\Content\NhayDam.xnb
+C:\Users\Bien\Downloads\Game\Game\Game\bin\x86\Debug\Content\Nga.xnb
+C:\Users\Bien\Downloads\Game\Game\Game\bin\x86\Debug\Content\DungDay.xnb
+C:\Users\Bien\Downloads\Game\Game\Game\bin\x86\Debug\Game.exe
+C:\Users\Bien\Downloads\Game\Game\Game\bin\x86\Debug\Game.pdb
+C:\Users\Bien\Downloads\Game\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Bien\Downloads\Game\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bien\Downloads\Game\Game\Game\obj\x86\Debug\Game.exe
+C:\Users\Bien\Downloads\Game\Game\Game\obj\x86\Debug\Game.pdb
+E:\Project Game\Class\Game\Game\Game\bin\x86\Debug\Content\Di.xnb
+E:\Project Game\Class\Game\Game\Game\bin\x86\Debug\Content\Nhay.xnb
+E:\Project Game\Class\Game\Game\Game\bin\x86\Debug\Content\Da.xnb
+E:\Project Game\Class\Game\Game\Game\bin\x86\Debug\Content\Dam.xnb
+E:\Project Game\Class\Game\Game\Game\bin\x86\Debug\Content\Dung.xnb
+E:\Project Game\Class\Game\Game\Game\bin\x86\Debug\Content\Ngoi.xnb
+E:\Project Game\Class\Game\Game\Game\bin\x86\Debug\Content\NhayToi.xnb
+E:\Project Game\Class\Game\Game\Game\bin\x86\Debug\Content\NgoiDa.xnb
+E:\Project Game\Class\Game\Game\Game\bin\x86\Debug\Content\NgoiDam.xnb
+E:\Project Game\Class\Game\Game\Game\bin\x86\Debug\Content\NhayDa.xnb
+E:\Project Game\Class\Game\Game\Game\bin\x86\Debug\Content\NhayDam.xnb
+E:\Project Game\Class\Game\Game\Game\bin\x86\Debug\Content\Nga.xnb
+E:\Project Game\Class\Game\Game\Game\bin\x86\Debug\Content\DungDay.xnb
+E:\Project Game\Class\Game\Game\Game\bin\x86\Debug\Game.exe
+E:\Project Game\Class\Game\Game\Game\bin\x86\Debug\Game.pdb
+E:\Project Game\Class\Game\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+E:\Project Game\Class\Game\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Project Game\Class\Game\Game\Game\obj\x86\Debug\Game.exe
+E:\Project Game\Class\Game\Game\Game\obj\x86\Debug\Game.pdb
+E:\Project Game\Project Songoku\Class\Game\Game\Game\bin\x86\Debug\Content\Di.xnb
+E:\Project Game\Project Songoku\Class\Game\Game\Game\bin\x86\Debug\Content\Nhay.xnb
+E:\Project Game\Project Songoku\Class\Game\Game\Game\bin\x86\Debug\Content\Da.xnb
+E:\Project Game\Project Songoku\Class\Game\Game\Game\bin\x86\Debug\Content\Dam.xnb
+E:\Project Game\Project Songoku\Class\Game\Game\Game\bin\x86\Debug\Content\Dung.xnb
+E:\Project Game\Project Songoku\Class\Game\Game\Game\bin\x86\Debug\Content\Ngoi.xnb
+E:\Project Game\Project Songoku\Class\Game\Game\Game\bin\x86\Debug\Content\NhayToi.xnb
+E:\Project Game\Project Songoku\Class\Game\Game\Game\bin\x86\Debug\Content\NgoiDa.xnb
+E:\Project Game\Project Songoku\Class\Game\Game\Game\bin\x86\Debug\Content\NgoiDam.xnb
+E:\Project Game\Project Songoku\Class\Game\Game\Game\bin\x86\Debug\Content\NhayDa.xnb
+E:\Project Game\Project Songoku\Class\Game\Game\Game\bin\x86\Debug\Content\NhayDam.xnb
+E:\Project Game\Project Songoku\Class\Game\Game\Game\bin\x86\Debug\Content\Nga.xnb
+E:\Project Game\Project Songoku\Class\Game\Game\Game\bin\x86\Debug\Content\DungDay.xnb
+E:\Project Game\Project Songoku\Class\Game\Game\Game\bin\x86\Debug\Game.exe
+E:\Project Game\Project Songoku\Class\Game\Game\Game\bin\x86\Debug\Game.pdb
+E:\Project Game\Project Songoku\Class\Game\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+E:\Project Game\Project Songoku\Class\Game\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Project Game\Project Songoku\Class\Game\Game\Game\obj\x86\Debug\Game.exe
+E:\Project Game\Project Songoku\Class\Game\Game\Game\obj\x86\Debug\Game.pdb
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\bin\x86\Debug\Content\Di.xnb
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\bin\x86\Debug\Content\Nhay.xnb
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\bin\x86\Debug\Content\Da.xnb
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\bin\x86\Debug\Content\Dam.xnb
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\bin\x86\Debug\Content\Dung.xnb
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\bin\x86\Debug\Content\Ngoi.xnb
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\bin\x86\Debug\Content\NhayToi.xnb
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\bin\x86\Debug\Content\NgoiDa.xnb
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\bin\x86\Debug\Content\NgoiDam.xnb
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\bin\x86\Debug\Content\NhayDa.xnb
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\bin\x86\Debug\Content\NhayDam.xnb
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\bin\x86\Debug\Content\Nga.xnb
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\bin\x86\Debug\Content\DungDay.xnb
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\bin\x86\Debug\Content\Run n Shoot.xnb
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\bin\x86\Debug\Content\Run.xnb
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\bin\x86\Debug\Content\Sit.xnb
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\bin\x86\Debug\Content\Stand.xnb
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\bin\x86\Debug\Game.exe
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\bin\x86\Debug\Game.pdb
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\obj\x86\Debug\Game.exe
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\obj\x86\Debug\Game.pdb
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\bin\x86\Debug\Content\Shoot.xnb
+C:\Users\Bien\Downloads\Megaman\Test\Game\Game\Game\bin\x86\Debug\Content\Run2.xnb

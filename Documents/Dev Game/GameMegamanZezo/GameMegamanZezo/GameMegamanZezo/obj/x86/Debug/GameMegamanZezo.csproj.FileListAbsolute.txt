@@ -1,0 +1,24 @@
+E:\Lap Trinh Truc Quan\[XNA]\GameMegamanZezo\GameMegamanZezo\GameMegamanZezo\bin\x86\Debug\GameMegamanZezo.exe
+E:\Lap Trinh Truc Quan\[XNA]\GameMegamanZezo\GameMegamanZezo\GameMegamanZezo\bin\x86\Debug\GameMegamanZezo.pdb
+E:\Lap Trinh Truc Quan\[XNA]\GameMegamanZezo\GameMegamanZezo\GameMegamanZezo\bin\x86\Debug\RpgLibrary.dll
+E:\Lap Trinh Truc Quan\[XNA]\GameMegamanZezo\GameMegamanZezo\GameMegamanZezo\bin\x86\Debug\XRpgLibrary.dll
+E:\Lap Trinh Truc Quan\[XNA]\GameMegamanZezo\GameMegamanZezo\GameMegamanZezo\bin\x86\Debug\RpgLibrary.pdb
+E:\Lap Trinh Truc Quan\[XNA]\GameMegamanZezo\GameMegamanZezo\GameMegamanZezo\bin\x86\Debug\XRpgLibrary.pdb
+E:\Lap Trinh Truc Quan\[XNA]\GameMegamanZezo\GameMegamanZezo\GameMegamanZezo\obj\x86\Debug\GameMegamanZezo.csprojResolveAssemblyReference.cache
+E:\Lap Trinh Truc Quan\[XNA]\GameMegamanZezo\GameMegamanZezo\GameMegamanZezo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Lap Trinh Truc Quan\[XNA]\GameMegamanZezo\GameMegamanZezo\GameMegamanZezo\obj\x86\Debug\GameMegamanZezo.exe
+E:\Lap Trinh Truc Quan\[XNA]\GameMegamanZezo\GameMegamanZezo\GameMegamanZezo\obj\x86\Debug\GameMegamanZezo.pdb
+E:\Lap Trinh Truc Quan\[XNA]\GameMegamanZezo\GameMegamanZezo\GameMegamanZezo\bin\x86\Debug\Content\Backgrounds\Background.xnb
+E:\Lap Trinh Truc Quan\[XNA]\GameMegamanZezo\GameMegamanZezo\GameMegamanZezo\bin\x86\Debug\Content\Fonts\ControlFont.xnb
+C:\Users\Bien\Downloads\GameMegamanZezo\GameMegamanZezo\GameMegamanZezo\bin\x86\Debug\Content\Fonts\ControlFont.xnb
+C:\Users\Bien\Downloads\GameMegamanZezo\GameMegamanZezo\GameMegamanZezo\bin\x86\Debug\Content\Backgrounds\Background.xnb
+C:\Users\Bien\Downloads\GameMegamanZezo\GameMegamanZezo\GameMegamanZezo\bin\x86\Debug\GameMegamanZezo.exe
+C:\Users\Bien\Downloads\GameMegamanZezo\GameMegamanZezo\GameMegamanZezo\bin\x86\Debug\GameMegamanZezo.pdb
+C:\Users\Bien\Downloads\GameMegamanZezo\GameMegamanZezo\GameMegamanZezo\bin\x86\Debug\RpgLibrary.dll
+C:\Users\Bien\Downloads\GameMegamanZezo\GameMegamanZezo\GameMegamanZezo\bin\x86\Debug\XRpgLibrary.dll
+C:\Users\Bien\Downloads\GameMegamanZezo\GameMegamanZezo\GameMegamanZezo\bin\x86\Debug\RpgLibrary.pdb
+C:\Users\Bien\Downloads\GameMegamanZezo\GameMegamanZezo\GameMegamanZezo\bin\x86\Debug\XRpgLibrary.pdb
+C:\Users\Bien\Downloads\GameMegamanZezo\GameMegamanZezo\GameMegamanZezo\obj\x86\Debug\GameMegamanZezo.csprojResolveAssemblyReference.cache
+C:\Users\Bien\Downloads\GameMegamanZezo\GameMegamanZezo\GameMegamanZezo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bien\Downloads\GameMegamanZezo\GameMegamanZezo\GameMegamanZezo\obj\x86\Debug\GameMegamanZezo.exe
+C:\Users\Bien\Downloads\GameMegamanZezo\GameMegamanZezo\GameMegamanZezo\obj\x86\Debug\GameMegamanZezo.pdb
